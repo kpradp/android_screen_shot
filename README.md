@@ -1,6 +1,6 @@
 # android_screen_shot
 
-####Simple screen shot utility 
+#### Simple screen shot utility 
 
 <li> connect android device  
 <li> run the py 
